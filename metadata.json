@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Copy of Product Finder AI.ii",
+  "description": "An application to identify products from an image, find product details, locate nearby physical stores, and check online availability.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
